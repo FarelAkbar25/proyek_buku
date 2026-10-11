@@ -1,0 +1,2 @@
+Judul                          | Penulis              | Harga      | Status
+mtk                            | Anonim               | 20000      | Belum dibaca dan belum dibeli

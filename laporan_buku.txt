@@ -1,0 +1,8 @@
+LAPORAN DAFTAR BUKU WAJIB BELI
+1. Judul   : mtk
+   Penulis : Anonim
+   Harga   : Rp 20000
+   Status  : Belum dibaca dan belum dibeli
+
+Total buku wajib beli : 1
+Total biaya disiapkan : Rp 20000
