@@ -62,7 +62,7 @@ def main():
                     print(f"   Penulis : {b['penulis']}")
                     print(f"   Harga   : Rp {b['harga']}")
                     print(f"   Status  : {b['status']}")
-                    print() # enter pemisah antar buku
+                    print()
             
             input("Tekan Enter untuk lanjut...")
                     
