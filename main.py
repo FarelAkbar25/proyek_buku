@@ -6,7 +6,6 @@ from book_list.validasi import cek_harga_valid, cek_data_kosong
 def main():
     fh = FileHandler("data_buku.txt")
     proc = BukuProcessor()
-    
     fh.buat_file_awal()
     
     while True:
