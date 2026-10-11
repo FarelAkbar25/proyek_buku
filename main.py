@@ -7,7 +7,6 @@ def main():
     fh = FileHandler("data_buku.txt")
     proc = BukuProcessor()
     
-    # Membuat file pertama kali jika belum ada
     fh.buat_file_awal()
     
     while True:

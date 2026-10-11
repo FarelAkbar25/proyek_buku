@@ -5,7 +5,6 @@ from .validasi import cek_harga_valid, cek_data_kosong
 class TestBuku(unittest.TestCase):
     def setUp(self):
         self.proc = BukuProcessor()
-        # STATUS DISESUAIKAN LAGI
         self.data_dummy = [
             {'judul': 'Buku A', 'harga': 50000, 'status': 'Belum dibaca dan belum dibeli'},
             {'judul': 'Buku B', 'harga': 30000, 'status': 'Sudah dibaca dan sudah dibeli'}

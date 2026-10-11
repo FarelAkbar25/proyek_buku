@@ -6,5 +6,4 @@ class BukuProcessor:
         return sorted(buku_list, key=lambda x: x['harga'])
     
     def filter_wajib_beli(self, buku_list):
-        # Disamakan persis dengan kalimat status yang baru
         return list(filter(lambda x: x['status'] == 'Belum dibaca dan belum dibeli', buku_list))
