@@ -1,4 +1,0 @@
-Judul                          | Penulis              | Harga      | Status
-mtk                            | Anonim               | 20000      | Belum dibaca dan belum dibeli
-manajemen proses bisnis        | Anonim               | 200000     | Sudah dibaca dan sudah dibeli
-laut bercerita                 | leila s. chudori     | 115000     | Belum dibaca dan belum dibeli
